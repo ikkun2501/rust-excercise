@@ -1,0 +1,15 @@
+var _user$project$Repl$tuple = {ctor: '_Tuple2', _0: 8, _1: 4};
+var _user$project$Repl$t_s_o_l = {ctor: '_Tuple0'};
+var _user$project$Repl$name = {fisrtName: 'Donald', lastName: 'Trump'};
+var _user$project$Repl$getName = function (user) {
+	return user.name;
+};
+var _user$project$Repl$d_e_l_t_r_o_n_3_0_3_0 = function (_p0) {
+	var _p1 = _p0;
+	return _p1._0 + _p1._1;
+}(
+	{ctor: '_Tuple2', _0: 8, _1: 4});
+var _user$project$Repl$User = F2(
+	function (a, b) {
+		return {name: a, age: b};
+	});

@@ -1,0 +1,10 @@
+[package]
+name = "ownership3"
+version = "0.1.0"
+authors = ["mori <mori@casareal.co.jp>"]
+
+[dependencies]
+
+[[bin]]
+name = "ownership3"
+path = "ownership3.rs"

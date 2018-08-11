@@ -1,0 +1,10 @@
+[package]
+name = "ownership1"
+version = "0.1.0"
+authors = ["mori <mori@casareal.co.jp>"]
+
+[dependencies]
+
+[lib]
+name = "ownership1"
+path = "ownership1.rs"

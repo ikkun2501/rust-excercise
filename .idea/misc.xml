@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/atcoder-rust/ABC086A/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/atcoder-rust/ABC081A/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Syntax/ownership1/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Syntax/ownership2/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Syntax/ownership3/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/Syntax/ownership4-reference-borrowing/Cargo.toml" />
+  </component>
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+</project>
