@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2fc2b29-2ea1-41a9-acea-bfcf796ccbbe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/hal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ant-book/src/dfs.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ant-book/src/dfs2.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ant-book/src/fact.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ant-book/src/fib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ant-book/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ant-book/src/string-to-vec.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/competitive/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/competitive/src/util.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rust-excercise.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -36,22 +22,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="rs" value="4" />
+          <entry key="rs" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Rust" value="4" />
+          <entry key="Rust" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rs" value="128" />
+          <entry key="rs" value="1400" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Rust" value="128" />
+          <entry key="Rust" value="1400" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger" />
@@ -71,11 +57,29 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ant-book/src/string-to-vec.rs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="208">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programming-rust/9/grayscale/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/programming-rust/2/mandelbrot/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -163,6 +167,7 @@
         <option value="$PROJECT_DIR$/ant-book/Cargo.toml" />
         <option value="$PROJECT_DIR$/ant-book/src/dfs2.rs" />
         <option value="$PROJECT_DIR$/ant-book/src/string-to-vec.rs" />
+        <option value="$PROJECT_DIR$/programming-rust/9/grayscale/src/main.rs" />
       </list>
     </option>
   </component>
@@ -194,12 +199,48 @@
             <path>
               <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="ant-book" type="462c0819:PsiDirectoryNode" />
+              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="ant-book" type="462c0819:PsiDirectoryNode" />
+              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="mandelbrot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="2" type="462c0819:PsiDirectoryNode" />
+              <item name="mandelbrot" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="9" type="462c0819:PsiDirectoryNode" />
+              <item name="grayscale" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="9" type="462c0819:PsiDirectoryNode" />
+              <item name="grayscale" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -214,6 +255,7 @@
     <property name="SearchEverywhereHistoryKey" value="main.rs&#9;FILE&#9;file:///Users/hal/IdeaProjects/rust-excercise/programming-rust/2/mandelbrot/src/main.rs" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534399955528" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/opt/npm/bin/node" />
@@ -265,6 +307,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="All Features in: 1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/programming-rust/9/1" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="rust-excercise" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: 1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -279,6 +338,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber java.All Features in: 1" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -295,12 +359,12 @@
       <workItem from="1533953797587" duration="3990000" />
       <workItem from="1533975942942" duration="27724000" />
       <workItem from="1534319364737" duration="7177000" />
-      <workItem from="1534393939394" duration="1981000" />
+      <workItem from="1534393939394" duration="2988000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41392000" />
+    <option name="totallyTimeSpent" value="42399000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,7 +379,7 @@
     <frame x="800" y="23" width="871" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.19420989" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.19420989" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24880709" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -329,9 +393,9 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47863248" weight="0.333691" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.52556235" side_tool="true" weight="0.33476394" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.52556235" side_tool="true" weight="0.33475935" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3298122" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.52136755" side_tool="true" visible="true" weight="0.3315508" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.52136755" side_tool="true" visible="true" weight="0.3315508" />
       <window_info anchor="bottom" id="Spring" order="10" sideWeight="0.49284253" weight="0.32772166" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.46898434" weight="0.32884398" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.32979977" />
@@ -371,13 +435,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/programming-rust/2/mandelbrot/mandel.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/2/mandelbrot/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2880">
-          <caret line="180" column="18" selection-start-line="180" selection-start-column="18" selection-end-line="180" selection-end-column="18" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/programming-rust/2/iron-gcd/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
@@ -498,7 +555,21 @@
     <entry file="file://$PROJECT_DIR$/ant-book/src/string-to-vec.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-rust/2/mandelbrot/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-rust/9/grayscale/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
         </state>
       </provider>
     </entry>
