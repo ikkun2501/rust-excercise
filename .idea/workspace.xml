@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2fc2b29-2ea1-41a9-acea-bfcf796ccbbe" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/programming-rust/9/generic_struct/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/programming-rust/9/generic_struct/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e2fc2b29-2ea1-41a9-acea-bfcf796ccbbe" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,22 +20,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="rs" value="10" />
+          <entry key="rs" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Rust" value="10" />
+          <entry key="Rust" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rs" value="3657" />
+          <entry key="rs" value="4270" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Rust" value="3657" />
+          <entry key="Rust" value="4270" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger" />
@@ -50,15 +46,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant-book/src/ant.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ant-book/src/string-to-vec.rs">
           <provider selected="true" editor-type-id="text-editor">
@@ -120,15 +107,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programming-rust/9/generic_struct/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="992">
-              <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+            <state relative-caret-position="192">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding>
                 <element signature="e#950#951#0" expanded="true" />
                 <element signature="e#1013#1014#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programming-rust/9/lifetime_struct/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -232,6 +228,7 @@
         <option value="$PROJECT_DIR$/programming-rust/9/unit_sturct/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/9/method_definition_by_impl/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/9/generic_struct/src/main.rs" />
+        <option value="$PROJECT_DIR$/programming-rust/9/lifetime_struct/src/main.rs" />
       </list>
     </option>
   </component>
@@ -297,29 +294,14 @@
               <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
               <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
               <item name="9" type="462c0819:PsiDirectoryNode" />
-              <item name="generic_struct" type="462c0819:PsiDirectoryNode" />
+              <item name="lifetime_struct" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
               <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
               <item name="9" type="462c0819:PsiDirectoryNode" />
-              <item name="generic_struct" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
-              <item name="9" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_sturct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
-              <item name="9" type="462c0819:PsiDirectoryNode" />
-              <item name="unit_sturct" type="462c0819:PsiDirectoryNode" />
+              <item name="lifetime_struct" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -334,7 +316,7 @@
     <property name="SearchEverywhereHistoryKey" value="main.rs&#9;FILE&#9;file:///Users/hal/IdeaProjects/rust-excercise/programming-rust/2/mandelbrot/src/main.rs" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534402851229" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534405704121" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/opt/npm/bin/node" />
@@ -347,18 +329,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/programming-rust/9" />
+      <recent name="$PROJECT_DIR$/ant-book/src" />
+      <recent name="$PROJECT_DIR$/ant-book/src/section2" />
+      <recent name="$PROJECT_DIR$/ant-book/src/test" />
+      <recent name="$PROJECT_DIR$/ant-book/src/2-1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/competitive/src" />
       <recent name="$PROJECT_DIR$/ant-book/src" />
       <recent name="$PROJECT_DIR$/ant-book/src/section2/util" />
       <recent name="$PROJECT_DIR$/ant-book" />
       <recent name="$PROJECT_DIR$/ant-book/src/section2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/ant-book/src" />
-      <recent name="$PROJECT_DIR$/ant-book/src/section2" />
-      <recent name="$PROJECT_DIR$/ant-book/src/test" />
-      <recent name="$PROJECT_DIR$/ant-book/src/2-1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -438,12 +421,12 @@
       <workItem from="1533953797587" duration="3990000" />
       <workItem from="1533975942942" duration="27724000" />
       <workItem from="1534319364737" duration="7177000" />
-      <workItem from="1534393939394" duration="6250000" />
+      <workItem from="1534393939394" duration="7791000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45661000" />
+    <option name="totallyTimeSpent" value="47202000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,9 +439,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="212" y="23" width="1459" height="1027" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.19195484" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.19195484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24880709" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -474,7 +456,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47863248" weight="0.333691" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.52556235" side_tool="true" weight="0.33475935" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3298122" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.52136755" side_tool="true" visible="true" weight="0.3315508" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.52136755" side_tool="true" visible="true" weight="0.3315508" />
       <window_info anchor="bottom" id="Spring" order="10" sideWeight="0.49284253" weight="0.32772166" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.46898434" weight="0.32884398" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.32979977" />
@@ -691,12 +673,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/programming-rust/9/generic_struct/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="992">
-          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        <state relative-caret-position="192">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
             <element signature="e#950#951#0" expanded="true" />
             <element signature="e#1013#1014#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-rust/9/lifetime_struct/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
         </state>
       </provider>
     </entry>
