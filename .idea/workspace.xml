@@ -22,22 +22,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="rs" value="8" />
+          <entry key="rs" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Rust" value="8" />
+          <entry key="Rust" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rs" value="1916" />
+          <entry key="rs" value="3445" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Rust" value="1916" />
+          <entry key="Rust" value="3445" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger" />
@@ -88,11 +88,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/programming-rust/9/unit_sturct/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
               <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/programming-rust/9/method_definition_by_impl/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#241#242#0" expanded="true" />
+                <element signature="e#754#755#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+                <element signature="e#869#870#0" expanded="true" />
+                <element signature="e#910#911#0" expanded="true" />
+                <element signature="e#950#951#0" expanded="true" />
+                <element signature="e#1013#1014#0" expanded="true" />
+                <element signature="e#941#942#0" expanded="true" />
+                <element signature="e#974#975#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -135,6 +156,7 @@
       <find>pixles</find>
       <find>complex_square_add_loop</find>
       <find>w</find>
+      <find>order</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -192,6 +214,7 @@
         <option value="$PROJECT_DIR$/programming-rust/9/grayscale/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/9/tuple_struct/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/9/unit_sturct/src/main.rs" />
+        <option value="$PROJECT_DIR$/programming-rust/9/method_definition_by_impl/src/main.rs" />
       </list>
     </option>
   </component>
@@ -257,14 +280,14 @@
               <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
               <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
               <item name="9" type="462c0819:PsiDirectoryNode" />
-              <item name="tuple_struct" type="462c0819:PsiDirectoryNode" />
+              <item name="method_definition_by_impl" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
               <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
               <item name="9" type="462c0819:PsiDirectoryNode" />
-              <item name="tuple_struct" type="462c0819:PsiDirectoryNode" />
+              <item name="method_definition_by_impl" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -294,7 +317,7 @@
     <property name="SearchEverywhereHistoryKey" value="main.rs&#9;FILE&#9;file:///Users/hal/IdeaProjects/rust-excercise/programming-rust/2/mandelbrot/src/main.rs" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534401203843" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534402645888" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/opt/npm/bin/node" />
@@ -398,12 +421,12 @@
       <workItem from="1533953797587" duration="3990000" />
       <workItem from="1533975942942" duration="27724000" />
       <workItem from="1534319364737" duration="7177000" />
-      <workItem from="1534393939394" duration="4181000" />
+      <workItem from="1534393939394" duration="5615000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43592000" />
+    <option name="totallyTimeSpent" value="45026000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -418,7 +441,7 @@
     <frame x="212" y="23" width="1459" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.19195484" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.19195484" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24880709" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -434,7 +457,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47863248" weight="0.333691" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.52556235" side_tool="true" weight="0.33475935" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3298122" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.52136755" side_tool="true" visible="true" weight="0.3315508" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.52136755" side_tool="true" visible="true" weight="0.3315508" />
       <window_info anchor="bottom" id="Spring" order="10" sideWeight="0.49284253" weight="0.32772166" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.46898434" weight="0.32884398" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.32979977" />
@@ -627,6 +650,25 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-rust/9/method_definition_by_impl/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="36" column="33" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#754#755#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#950#951#0" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+            <element signature="e#941#942#0" expanded="true" />
+            <element signature="e#974#975#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
