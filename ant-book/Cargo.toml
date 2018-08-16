@@ -1,0 +1,31 @@
+[package]
+name = "ant-book"
+version = "0.1.0"
+authors = ["ikkun2501 <ikkun2501@gmail.com>"]
+
+[dependencies]
+competitive = { path = "../competitive/" }
+
+[[bin]]
+name = "ant"
+path = "src/ant.rs"
+
+[[bin]]
+name = "fact"
+path = "src/fact.rs"
+
+[[bin]]
+name = "fib"
+path = "src/fib.rs"
+
+[[bin]]
+name = "dfs"
+path = "src/dfs.rs"
+
+[[bin]]
+name = "dfs2"
+path = "src/dfs2.rs"
+
+[[bin]]
+name = "string-to-vec"
+path = "src/string-to-vec.rs"
