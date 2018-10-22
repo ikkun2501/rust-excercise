@@ -3,6 +3,117 @@
   <component name="ChangeListManager">
     <list default="true" id="e2fc2b29-2ea1-41a9-acea-bfcf796ccbbe" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/ownership1/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/ownership1/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/ownership2/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/ownership2/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/ownership3/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/ownership3/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Syntax/ownership4-reference-borrowing/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/Syntax/ownership4-reference-borrowing/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/.cargo-lock" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/.cargo-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/.fingerprint/ABC081A-5ed3f760229d1957/bin-ABC081A-5ed3f760229d1957" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/.fingerprint/ABC081A-5ed3f760229d1957/bin-ABC081A-5ed3f760229d1957" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/.fingerprint/ABC081A-5ed3f760229d1957/bin-ABC081A-5ed3f760229d1957.json" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/.fingerprint/ABC081A-5ed3f760229d1957/bin-ABC081A-5ed3f760229d1957.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/.fingerprint/ABC081A-5ed3f760229d1957/dep-bin-ABC081A-5ed3f760229d1957" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/.fingerprint/ABC081A-5ed3f760229d1957/dep-bin-ABC081A-5ed3f760229d1957" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/ABC081A.d" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/ABC081A.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/ABC081A.exe" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/ABC081A.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/ABC081A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/ABC081A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/deps/ABC081A-5ed3f760229d1957.d" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/deps/ABC081A-5ed3f760229d1957.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/deps/ABC081A-5ed3f760229d1957.exe" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/deps/ABC081A-5ed3f760229d1957.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/deps/ABC081A-5ed3f760229d1957.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/deps/ABC081A-5ed3f760229d1957.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/10ygozpgsu0ud2lu.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/10ygozpgsu0ud2lu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/16i0u6jlhoj1fwbo.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/16i0u6jlhoj1fwbo.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/16u6js6g0l3k1ic6.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/16u6js6g0l3k1ic6.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/181cuta0v63atwcm.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/181cuta0v63atwcm.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/1f5b2cafqc06jt9o.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/1f5b2cafqc06jt9o.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/1im38lueib99jsk0.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/1im38lueib99jsk0.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/1mvmz58owquyropc.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/1mvmz58owquyropc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/1y16o1qfye96o7m0.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/1y16o1qfye96o7m0.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/1zwd8n7bcl3vhvvh.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/1zwd8n7bcl3vhvvh.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/23tqyymcb18u96mb.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/23tqyymcb18u96mb.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/2jqywn86b2gsqohu.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/2jqywn86b2gsqohu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/2lyh15q6cjwzy18c.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/2lyh15q6cjwzy18c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3ayaeypdcro9d6yk.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3ayaeypdcro9d6yk.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3d8iqwv2hztrjuz.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3d8iqwv2hztrjuz.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3ik0x0hz6l66cx38.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3ik0x0hz6l66cx38.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3ldk0i2zxftngav8.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3ldk0i2zxftngav8.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3rngp6bm2u2q5z0y.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3rngp6bm2u2q5z0y.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3wta9ctgdrpkmlpr.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/3wta9ctgdrpkmlpr.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/43v6g0y2xsxoggnt.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/43v6g0y2xsxoggnt.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/45pc7c65foh9i35f.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/45pc7c65foh9i35f.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/48721dc4k5qxei0u.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/48721dc4k5qxei0u.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/49a7n47po4ttqjl7.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/49a7n47po4ttqjl7.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/49qmpuk8w1opmi5q.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/49qmpuk8w1opmi5q.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/4oc10dk278mpk1vy.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/4oc10dk278mpk1vy.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/4xq48u46a1pwiqn7.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/4xq48u46a1pwiqn7.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/4yh8x2b62dcih00t.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/4yh8x2b62dcih00t.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/4ypvbwho0bu5tnww.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/4ypvbwho0bu5tnww.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/5544xgl7axh7p8nz.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/5544xgl7axh7p8nz.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/572bgozz9kcwe4zq.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/572bgozz9kcwe4zq.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/57k06xfugllsc526.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/57k06xfugllsc526.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/8xzrsc1ux72v29j.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/8xzrsc1ux72v29j.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/98g0d9x8aw3akpe.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/98g0d9x8aw3akpe.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/9elsx31vb4it187.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/9elsx31vb4it187.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/c6lbtaiefvx3wya.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/c6lbtaiefvx3wya.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/dep-graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/dep-graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/pqmjx25qpxkduz7.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/pqmjx25qpxkduz7.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/query-cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/query-cache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/work-products.bin" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/work-products.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/y08g5q2x813c4wx.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/y08g5q2x813c4wx.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/z9ox7biyn1otfln.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw-nqwjl6gh8hn7/z9ox7biyn1otfln.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC081A/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw.lock" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc081a/target/debug/incremental/ABC081A-1ad17u7fvt64t/s-f3m7d94cin-1i6ozmw.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/.cargo-lock" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/.cargo-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/.fingerprint/ABC086A-04659b3b62ad1306/bin-ABC086A-04659b3b62ad1306" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/.fingerprint/ABC086A-04659b3b62ad1306/bin-ABC086A-04659b3b62ad1306" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/.fingerprint/ABC086A-04659b3b62ad1306/bin-ABC086A-04659b3b62ad1306.json" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/.fingerprint/ABC086A-04659b3b62ad1306/bin-ABC086A-04659b3b62ad1306.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/.fingerprint/ABC086A-04659b3b62ad1306/dep-bin-ABC086A-04659b3b62ad1306" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/.fingerprint/ABC086A-04659b3b62ad1306/dep-bin-ABC086A-04659b3b62ad1306" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/ABC086A.d" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/ABC086A.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/ABC086A.exe" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/ABC086A.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/ABC086A.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/ABC086A.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/deps/ABC086A-04659b3b62ad1306.d" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/deps/ABC086A-04659b3b62ad1306.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/deps/ABC086A-04659b3b62ad1306.exe" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/deps/ABC086A-04659b3b62ad1306.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/deps/ABC086A-04659b3b62ad1306.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/deps/ABC086A-04659b3b62ad1306.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/10ygozpgsu0ud2lu.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/10ygozpgsu0ud2lu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/16u6js6g0l3k1ic6.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/16u6js6g0l3k1ic6.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/181cuta0v63atwcm.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/181cuta0v63atwcm.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/1im38lueib99jsk0.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/1im38lueib99jsk0.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/1mvmz58owquyropc.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/1mvmz58owquyropc.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/1y16o1qfye96o7m0.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/1y16o1qfye96o7m0.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/23tqyymcb18u96mb.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/23tqyymcb18u96mb.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/299oimnrenlhs6p3.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/299oimnrenlhs6p3.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/2jqywn86b2gsqohu.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/2jqywn86b2gsqohu.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/2lyh15q6cjwzy18c.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/2lyh15q6cjwzy18c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/3ayaeypdcro9d6yk.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/3ayaeypdcro9d6yk.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/3ik0x0hz6l66cx38.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/3ik0x0hz6l66cx38.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/3ldk0i2zxftngav8.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/3ldk0i2zxftngav8.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/3rngp6bm2u2q5z0y.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/3rngp6bm2u2q5z0y.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/3wta9ctgdrpkmlpr.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/3wta9ctgdrpkmlpr.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/43v6g0y2xsxoggnt.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/43v6g0y2xsxoggnt.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/45pc7c65foh9i35f.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/45pc7c65foh9i35f.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/48721dc4k5qxei0u.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/48721dc4k5qxei0u.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/49a7n47po4ttqjl7.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/49a7n47po4ttqjl7.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/49qmpuk8w1opmi5q.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/49qmpuk8w1opmi5q.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/4oc10dk278mpk1vy.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/4oc10dk278mpk1vy.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/4xq48u46a1pwiqn7.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/4xq48u46a1pwiqn7.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/4yh8x2b62dcih00t.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/4yh8x2b62dcih00t.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/4ypvbwho0bu5tnww.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/4ypvbwho0bu5tnww.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/54cigt2eyab3y1yi.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/54cigt2eyab3y1yi.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/5544xgl7axh7p8nz.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/5544xgl7axh7p8nz.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/572bgozz9kcwe4zq.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/572bgozz9kcwe4zq.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/57k06xfugllsc526.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/57k06xfugllsc526.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/8xzrsc1ux72v29j.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/8xzrsc1ux72v29j.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/98g0d9x8aw3akpe.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/98g0d9x8aw3akpe.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/9elsx31vb4it187.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/9elsx31vb4it187.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/c6lbtaiefvx3wya.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/c6lbtaiefvx3wya.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/dep-graph.bin" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/dep-graph.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/pqmjx25qpxkduz7.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/pqmjx25qpxkduz7.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/query-cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/query-cache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/work-products.bin" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/work-products.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/y08g5q2x813c4wx.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/y08g5q2x813c4wx.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/z9ox7biyn1otfln.o" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu-1z9xts3pve6dk/z9ox7biyn1otfln.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atcoder-rust/ABC086A/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu.lock" beforeDir="false" afterPath="$PROJECT_DIR$/atcoder-rust/abc086a/target/debug/incremental/ABC086A-3nvatpipkc0oa/s-f3ldpobpgx-uo9ozu.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fizzbuzz/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/fizzbuzz/Cargo.toml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,100 +126,135 @@
     <session id="-1669154253">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="rs" value="19" />
-          <entry key="toml" value="2" />
+          <entry key="gitignore" value="1" />
+          <entry key="json" value="1" />
+          <entry key="lock" value="2" />
+          <entry key="rs" value="30" />
+          <entry key="toml" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Rust" value="19" />
-          <entry key="TOML file" value="2" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="Rust" value="30" />
+          <entry key="TOML file" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rs" value="8125" />
-          <entry key="toml" value="34" />
+          <entry key="gitignore" value="13" />
+          <entry key="rs" value="13072" />
+          <entry key="toml" value="266" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Rust" value="8125" />
-          <entry key="TOML file" value="34" />
+          <entry key="PLAIN_TEXT" value="13" />
+          <entry key="Rust" value="13072" />
+          <entry key="TOML file" value="266" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger" />
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.js.language.service.starts" />
       <usages-collector id="statistics.spring.boot.mvc.usages" />
+      <usages-collector id="statistics.vcs.git.usages" />
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming-rust/10/enum_with_data/src/main.rs">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc111a/Cargo.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-              <folding>
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="16">
+              <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/programming-rust/11/trait_/src/main.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="402">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-              <folding>
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#562#563#0" expanded="true" />
-                <element signature="e#676#677#0" expanded="true" />
-                <element signature="e#697#698#0" expanded="true" />
-                <element signature="e#751#752#0" expanded="true" />
-                <element signature="e#768#769#0" expanded="true" />
-                <element signature="e#963#964#0" expanded="true" />
-                <element signature="e#984#985#0" expanded="true" />
-                <element signature="e#1038#1039#0" expanded="true" />
-                <element signature="e#1071#1072#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant-book/src/ant.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="560">
-              <caret line="35" selection-start-line="35" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ant-book/src/dfs2.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="29" column="20" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/programming-rust/10/enum_with_data/Cargo.toml">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc112a/Cargo.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc111a/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="72" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc110a/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc110a/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc081a/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/base/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc081a/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc086a/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -130,11 +276,15 @@
       <find>w</find>
       <find>order</find>
       <find>char</find>
+      <find>it</find>
+      <find>casareal</find>
+      <find>mori &lt;mori@casareal.co.jp</find>
     </findStrings>
     <replaceStrings>
       <replace />
       <replace>bounds</replace>
       <replace>W</replace>
+      <replace>ikkun2501 &lt;ikkun2501@gmail.com</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -157,10 +307,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/programming-rust/2/iron-gcd/Cargo.toml" />
-        <option value="$PROJECT_DIR$/programming-rust/2/iron-gcd/src/main.rs" />
-        <option value="$PROJECT_DIR$/programming-rust/2/mandelbrot/Cargo.toml" />
-        <option value="$PROJECT_DIR$/programming-rust/2/mandelbrot/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/5/hashtable/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/5/reference/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/5/static-sample/src/main.rs" />
@@ -198,6 +344,20 @@
         <option value="$PROJECT_DIR$/programming-rust/10/enum_with_data/Cargo.toml" />
         <option value="$PROJECT_DIR$/programming-rust/10/enum_with_data/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/11/trait_/src/main.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/ABC112A/src/lib.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/ABC112A/Cargo.toml" />
+        <option value="$PROJECT_DIR$/atcoder-rust/base/Cargo.toml" />
+        <option value="$PROJECT_DIR$/atcoder-rust/base/src/test1.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/base/src/test2.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/ABC112A/src/main.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc111a/Cargo.toml" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc111a/src/main.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc110a/Cargo.toml" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc110a/src/main.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/base/src/main.rs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc081a/Cargo.toml" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc086a/Cargo.toml" />
       </list>
     </option>
   </component>
@@ -207,18 +367,28 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="810" />
-    <option name="y" value="23" />
-    <option name="width" value="861" />
-    <option name="height" value="1027" />
+    <option name="x" value="49" />
+    <option name="y" value="60" />
+    <option name="width" value="1579" />
+    <option name="height" value="932" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -229,53 +399,19 @@
             <path>
               <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="ant-book" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="ant-book" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-              <item name="trait_" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
-              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
-              <item name="programming-rust" type="462c0819:PsiDirectoryNode" />
-              <item name="11" type="462c0819:PsiDirectoryNode" />
-              <item name="trait_" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="atcoder-rust" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="main.rs&#9;FILE&#9;file:///Users/hal/IdeaProjects/rust-excercise/programming-rust/2/mandelbrot/src/main.rs" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534419040120" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540128610780" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/opt/npm/bin/node" />
@@ -289,11 +425,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atcoder-rust" />
+      <recent name="$PROJECT_DIR$/atcoder-rust/abc111a" />
+      <recent name="$PROJECT_DIR$/atcoder-rust/base/src" />
+      <recent name="$PROJECT_DIR$/atcoder-rust/base" />
       <recent name="$PROJECT_DIR$/programming-rust/9" />
-      <recent name="$PROJECT_DIR$/ant-book/src" />
-      <recent name="$PROJECT_DIR$/ant-book/src/section2" />
-      <recent name="$PROJECT_DIR$/ant-book/src/test" />
-      <recent name="$PROJECT_DIR$/ant-book/src/2-1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/competitive/src" />
@@ -380,12 +516,14 @@
       <workItem from="1533953797587" duration="3990000" />
       <workItem from="1533975942942" duration="27724000" />
       <workItem from="1534319364737" duration="7177000" />
-      <workItem from="1534393939394" duration="17197000" />
+      <workItem from="1534393939394" duration="18527000" />
+      <workItem from="1540116858088" duration="10797000" />
+      <workItem from="1540128722055" duration="7942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56608000" />
+    <option name="totallyTimeSpent" value="76677000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,10 +535,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="810" y="23" width="861" height="1027" extended-state="0" />
+    <frame x="49" y="60" width="1579" height="932" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.16605617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.21014965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24880709" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -416,7 +554,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47863248" weight="0.333691" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.52556235" side_tool="true" weight="0.33475935" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3298122" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.52136755" side_tool="true" visible="true" weight="0.3315508" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.52136755" side_tool="true" visible="true" weight="0.24761905" />
       <window_info anchor="bottom" id="Spring" order="10" sideWeight="0.49284253" weight="0.32772166" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.46898434" weight="0.32884398" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.32979977" />
@@ -447,47 +585,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programming-rust/5/hashtable/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="34" column="27" selection-start-line="34" selection-start-column="27" selection-end-line="34" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/2/mandelbrot/mandel.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/2/iron-gcd/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="90" column="30" selection-start-line="90" selection-start-column="30" selection-end-line="90" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/5/static-sample/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/5/reference/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="13" column="6" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/2/iron-gcd/Cargo.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rust-excercise.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/programming-rust/2/mandelbrot/Cargo.toml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
@@ -501,15 +598,6 @@
           <caret line="118" column="11" selection-start-line="118" selection-start-column="11" selection-end-line="118" selection-end-column="11" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder-rust/ABC081A/Cargo.toml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder-rust/ABC086A/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder-rust/ABC081A/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ant-book/target/.rustc_info.json">
       <provider selected="true" editor-type-id="text-editor" />
@@ -584,10 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="e#122#123#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -602,10 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-          <folding>
-            <element signature="e#950#951#0" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -613,18 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-174">
           <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-          <folding>
-            <element signature="e#205#206#0" expanded="true" />
-            <element signature="e#241#242#0" expanded="true" />
-            <element signature="e#754#755#0" expanded="true" />
-            <element signature="e#817#818#0" expanded="true" />
-            <element signature="e#869#870#0" expanded="true" />
-            <element signature="e#910#911#0" expanded="true" />
-            <element signature="e#950#951#0" expanded="true" />
-            <element signature="e#1013#1014#0" expanded="true" />
-            <element signature="e#941#942#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,10 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#53#54#0" expanded="true" />
-            <element signature="e#96#97#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,17 +728,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="e#10#11#0" expanded="true" />
-            <element signature="e#43#44#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/10/enum_with_data/Cargo.toml">
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc112a/target/.rustc_info.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state>
+          <caret column="50" lean-forward="true" selection-start-column="50" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/programming-rust/11/trait_/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
@@ -682,16 +749,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
           <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-          <folding>
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ant-book/src/ant.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="560">
+        <state relative-caret-position="546">
           <caret line="35" selection-start-line="35" selection-end-line="35" />
         </state>
       </provider>
@@ -703,22 +766,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/11/trait_/src/main.rs">
+    <entry file="file://$PROJECT_DIR$/programming-rust/10/enum_with_data/Cargo.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="402">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#676#677#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#751#752#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#963#964#0" expanded="true" />
-            <element signature="e#984#985#0" expanded="true" />
-            <element signature="e#1038#1039#0" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/ABC112A/src/lib.rs" />
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc112a/Cargo.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc086a/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/base/src/test2.rs" />
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/base/src/test1.rs" />
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc112a/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="16" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/base/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc081a/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc111a/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="72" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc110a/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc110a/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/base/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc081a/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc086a/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc111a/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc112a/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

@@ -1,6 +1,0 @@
-[package]
-name = "ABC081A"
-version = "0.1.0"
-authors = ["mori <mori@casareal.co.jp>"]
-
-[dependencies]

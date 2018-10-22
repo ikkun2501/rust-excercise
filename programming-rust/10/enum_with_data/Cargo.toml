@@ -1,10 +1,6 @@
 [package]
-name = "ownership2"
+name = "enum_with_data"
 version = "0.1.0"
 authors = ["ikkun2501 <ikkun2501@gmail.com>"]
 
 [dependencies]
-
-[[bin]]
-name = "ownership2"
-path = "ownership2.rs"
