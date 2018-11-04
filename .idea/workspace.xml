@@ -15,14 +15,14 @@
     <session id="-1669154253">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="12" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.7" value="3" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="13" />
+          <entry key="project.opened" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -30,30 +30,30 @@
           <entry key="gitignore" value="1" />
           <entry key="json" value="1" />
           <entry key="lock" value="4" />
-          <entry key="rs" value="41" />
-          <entry key="toml" value="20" />
+          <entry key="rs" value="44" />
+          <entry key="toml" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="JSON" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Rust" value="41" />
-          <entry key="TOML file" value="24" />
+          <entry key="Rust" value="44" />
+          <entry key="TOML file" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="13" />
-          <entry key="rs" value="16912" />
-          <entry key="toml" value="323" />
+          <entry key="rs" value="18741" />
+          <entry key="toml" value="342" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="Rust" value="16912" />
-          <entry key="TOML file" value="323" />
+          <entry key="Rust" value="18741" />
+          <entry key="TOML file" value="342" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.go.postfix.template.usages.trigger" />
@@ -66,51 +66,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc104a/src/main.rs">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc103a/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1616">
-              <caret line="101" selection-start-line="101" selection-end-line="101" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc081a/src/main.rs">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc081b/Cargo.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc081b/src/main.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1264">
-              <caret line="79" column="18" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc102a/Cargo.toml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc102a/src/main.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="86" column="17" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+            <state relative-caret-position="1408">
+              <caret line="88" selection-end-line="95" />
             </state>
           </provider>
         </entry>
@@ -124,17 +83,44 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc101a/src/main.rs">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc100a/Cargo.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="470">
-              <caret line="87" column="13" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+            <state relative-caret-position="16">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc104a/Cargo.toml">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc100a/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="71" column="34" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc099a/src/main.rs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="508">
+              <caret line="98" selection-start-line="98" selection-end-line="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc099a/Cargo.toml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/atcoder-rust/abc103a/Cargo.toml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="16">
               <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
@@ -190,12 +176,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ant-book/src/fact.rs" />
-        <option value="$PROJECT_DIR$/ant-book/Cargo.toml" />
-        <option value="$PROJECT_DIR$/ant-book/src/dfs2.rs" />
-        <option value="$PROJECT_DIR$/ant-book/src/string-to-vec.rs" />
-        <option value="$PROJECT_DIR$/programming-rust/9/grayscale/src/main.rs" />
-        <option value="$PROJECT_DIR$/programming-rust/9/tuple_struct/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/9/unit_sturct/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/9/method_definition_by_impl/src/main.rs" />
         <option value="$PROJECT_DIR$/programming-rust/9/generic_struct/src/main.rs" />
@@ -241,6 +221,12 @@
         <option value="$PROJECT_DIR$/atcoder-rust/abc102a/src/main.rs" />
         <option value="$PROJECT_DIR$/atcoder-rust/abc101a/Cargo.toml" />
         <option value="$PROJECT_DIR$/atcoder-rust/abc101a/src/main.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc103a/Cargo.toml" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc103a/src/main.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc100a/Cargo.toml" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc100a/src/main.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc099a/src/main.rs" />
+        <option value="$PROJECT_DIR$/atcoder-rust/abc099a/Cargo.toml" />
       </list>
     </option>
   </component>
@@ -269,6 +255,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -285,6 +274,26 @@
               <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
               <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
               <item name="atcoder-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="abc099a" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="atcoder-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="abc099a" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="atcoder-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="abc099a" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="atcoder-rust" type="462c0819:PsiDirectoryNode" />
               <item name="abc101a" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -294,20 +303,30 @@
               <item name="abc101a" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="atcoder-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="abc104a" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rust-excercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rust-excercise" type="462c0819:PsiDirectoryNode" />
+              <item name="atcoder-rust" type="462c0819:PsiDirectoryNode" />
+              <item name="abc104a" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="main.rs&#9;FILE&#9;file:///Users/hal/IdeaProjects/rust-excercise/programming-rust/2/mandelbrot/src/main.rs" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540617985752" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541297058891" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/opt/npm/bin/node" />
@@ -320,19 +339,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/atcoder-rust" />
+      <recent name="$PROJECT_DIR$/atcoder-rust/abc100a" />
+      <recent name="$PROJECT_DIR$/atcoder-rust/abc111a" />
+      <recent name="$PROJECT_DIR$/atcoder-rust/base/src" />
+      <recent name="$PROJECT_DIR$/atcoder-rust/base" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/competitive/src" />
       <recent name="$PROJECT_DIR$/ant-book/src" />
       <recent name="$PROJECT_DIR$/ant-book/src/section2/util" />
       <recent name="$PROJECT_DIR$/ant-book" />
       <recent name="$PROJECT_DIR$/ant-book/src/section2" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/atcoder-rust" />
-      <recent name="$PROJECT_DIR$/atcoder-rust/abc111a" />
-      <recent name="$PROJECT_DIR$/atcoder-rust/base/src" />
-      <recent name="$PROJECT_DIR$/atcoder-rust/base" />
-      <recent name="$PROJECT_DIR$/programming-rust/9" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -422,12 +441,15 @@
       <workItem from="1540618316232" duration="24000" />
       <workItem from="1540909601125" duration="297000" />
       <workItem from="1540945827940" duration="629000" />
-      <workItem from="1540988305519" duration="2762000" />
+      <workItem from="1540988305519" duration="3009000" />
+      <workItem from="1541293930556" duration="3279000" />
+      <workItem from="1541297468358" duration="204000" />
+      <workItem from="1541298226637" duration="936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="88622000" />
+    <option name="totallyTimeSpent" value="93288000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -442,7 +464,7 @@
     <frame x="49" y="60" width="1579" height="932" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.23096941" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49333334" visible="true" weight="0.23052564" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24880709" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
@@ -458,7 +480,7 @@
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.47863248" weight="0.333691" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.52556235" side_tool="true" weight="0.33475935" />
       <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3298122" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.52136755" side_tool="true" visible="true" weight="0.24404761" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.52136755" side_tool="true" visible="true" weight="0.24390244" />
       <window_info anchor="bottom" id="Spring" order="10" sideWeight="0.49284253" weight="0.32772166" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.46898434" weight="0.32884398" />
       <window_info anchor="bottom" id="Database Console" order="12" weight="0.32979977" />
@@ -489,48 +511,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/programming-rust/9/lifetime_struct/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/9/generic_struct/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/9/method_definition_by_impl/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-174">
-          <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/9/unit_sturct/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/9/tuple_struct/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/programming-rust/9/field_struct/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/programming-rust/2/mandelbrot/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
@@ -749,13 +729,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc104a/src/main.rs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1616">
-          <caret line="101" selection-start-line="101" selection-end-line="101" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/atcoder-rust/abc081a/src/main.rs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -787,10 +760,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc104a/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/atcoder-rust/abc102a/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
+        <state relative-caret-position="396">
           <caret line="86" column="17" selection-start-line="86" selection-start-column="17" selection-end-line="86" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc101a/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="101" selection-start-line="101" selection-end-line="101" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc103a/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1408">
+          <caret line="88" selection-end-line="95" />
         </state>
       </provider>
     </entry>
@@ -801,10 +795,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc101a/src/main.rs">
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc100a/Cargo.toml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="87" column="13" selection-start-line="87" selection-start-column="13" selection-end-line="87" selection-end-column="13" />
+        <state relative-caret-position="16">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc103a/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc100a/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="71" column="34" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc099a/Cargo.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/atcoder-rust/abc099a/src/main.rs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="508">
+          <caret line="98" selection-start-line="98" selection-end-line="98" />
         </state>
       </provider>
     </entry>
